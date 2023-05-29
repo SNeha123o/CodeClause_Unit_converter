@@ -1,0 +1,52 @@
+.container {
+    text-align: center;
+    background-image: 
+    url(backgrounds.jpg);
+    background-size: 5000px 2100px;
+    height: 2100px;
+    background-repeat: no-repeat;
+    font-size: 65px;
+  }
+  
+  .converter {
+    margin-top: 20px;
+    font-size: 54px;
+  }
+  
+  input[type="number"] {
+    width: 600px;
+    height: 150px;
+    margin-right: 150px;
+    font-size: 55px;
+    text-align: center;
+    background-color: grey;
+    border: 5px solid black;
+  }
+  
+  button {
+    margin-left: 10px;
+    width: 180px;
+    height: 90px;
+    font-size: 43px;
+    background-color: transparent;
+    border: 2px solid black;
+    border-radius: 12px;
+  }
+  
+  input[type="text"] {
+    width: 600px;
+    height: 150px;
+    margin-left: 150px;
+    font-size: 55px;
+    text-align: center;
+    background-color: grey;
+    border: 5px solid black;
+  }
+  select{
+    height: 100px;
+    width: 400px;
+    font-size: 45px;
+    margin: 45px;
+    text-align: center;
+    border-radius: 12px;
+  }
